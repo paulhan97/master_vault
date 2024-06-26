@@ -21,7 +21,7 @@ The system is extensible in the sense that new entries will not alter the positi
   - The last two digits after the decimal represent an **ID**
 
 ### What is a Category?
-Plainly speaking, a *category* is a collection of like-things. 
+Plainly speaking, a *category* is a set of like-things. 
 
 Some pointers on defining the scope of a category:
 - Prefer broader categories (The No-More Than 10 Rule)
