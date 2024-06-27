@@ -3,7 +3,7 @@
 
 For something as intricate as a second brain, the Johnny.Decimal system lacks enough indices to account for an ultra-wide scope of interests.
 
-This introduces the need to add an additional construct to the existing 3 of areas, categories and IDs. 
+This introduces the need to add an addition to existing constructs of areas, categories and IDs. 
 
 Hence, the **Collection** is born. This addition changes the index format to:
 `00.00.000`
