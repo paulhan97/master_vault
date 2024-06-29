@@ -1,3 +1,4 @@
+[[DTRIC-Owned Diamond Backups]] > Proposal
 # Purpose
 Given that Insuresoft already has backups of our Diamond production data in their own servers, the issue at-hand is whether DTRIC should own its own copies of Diamond production data. To that end, there are three primary reasons for this proposal:
 
