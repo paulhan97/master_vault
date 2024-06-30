@@ -1,12 +1,4 @@
-**Table of Contents**
-- [Purpose](#purpose)
-  - [Having one area where an unrestricted true-copy of Diamond data lives](#having-one-area-where-an-unrestricted-true-copy-of-diamond-data-lives)
-  - [Improving the reliability of many potential future options regarding data infrastructure and workflows](#improving-the-reliability-of-many-potential-future-options-regarding-data-infrastructure-and-workflows)
-  - [Setting the first domino to having a data lake](#setting-the-first-domino-to-having-a-data-lake)
-- [Questions Posed](#questions-posed)
-  - [What difference does it make if Insuresoft owns the storage and not DTRIC?](#what-difference-does-it-make-if-insuresoft-owns-the-storage-and-not-dtric)
-  - [How do we ensure that work is not duplicated?](#how-do-we-ensure-that-work-is-not-duplicated)
-
+[[DTRIC-Owned Diamond Backups]] > Proposal
 # Purpose
 Given that Insuresoft already has backups of our Diamond production data in their own servers, the issue at-hand is whether DTRIC should own its own copies of Diamond production data. To that end, there are three primary reasons for this proposal:
 

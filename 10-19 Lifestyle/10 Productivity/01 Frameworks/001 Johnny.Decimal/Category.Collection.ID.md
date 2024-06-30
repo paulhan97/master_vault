@@ -1,5 +1,4 @@
-# Category.Collection.ID
-[[Johnny.Decimal]] > Potential Extensions
+[[Johnny.Decimal]] > Category.Collection.ID
 
 For something as intricate as a second brain, the Johnny.Decimal system lacks enough indices to account for an ultra-wide scope of interests.
 
