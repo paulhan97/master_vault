@@ -35,4 +35,4 @@ le fleuve du Jourdain - Jordan River
 - 5/6/2024, Phuoc still found missing names and addresses. Customer testing marked as Verify Failed
 - 5/7/2024, Priyanka identified that certain records are not being inserted due to no update in the `last_modified_date`
 - 6/5/2024, There are null `party_id`s in the `address` table because `address` is a full load but `policy` and `policyimage` are incremental loads. Therefore, the join is omitting records where data is missing from the incremental loads
-- 6/10/2024, Priyanka pushes a fix. This applies also to tickets 357547 and 358202
+- 6/10/2024, Priyanka pushes a potential fix. This applies also to tickets 357547 and 358202
