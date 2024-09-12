@@ -14,6 +14,6 @@ A collection is a grouping of uniform records. For example, if you have a catego
 
 This circumvents the all too likely scenario that you will have more than 99 projects while also avoiding the sub-optimal alternatives of:
 - Eating up category slots with `Personal Projects`, `Commercial Projects`, etc.
-- Making `Software Development` and area
+- Making `Software Development` an area
 
 Instead, you can have the hierarchy of `Career`.`Software Development`.`Projects` which can be much clearer without much added complexity. 
